@@ -28,6 +28,18 @@
   </tr>
 </table>
 
+| #   | Proje Adı | Live Demo |
+|-----|-----------|-----------|
+|     | [🟨 Vanilla JavaScript Projects](https://github.com/kullaniciadi/vanilla-js-projects) | [🔗 Live Demo](https://kullaniciadi.github.io/vanilla-js-projects) |
+|     | **⚛️ React & Next Projects** |           |
+| 01  | [🛒 Trendyol Clone (not finished yet)](https://github.com/kullaniciadi/trendyol-clone) | [🔗 Live Demo](https://trendyol-clone.vercel.app) |
+| 02  | [🎨 GPT4 Themed UI Design](https://github.com/kullaniciadi/gpt4-ui-design) | [🔗 Live Demo](https://gpt4-ui-design.vercel.app) |
+| 03  | [🌐 3D Portfolio (not finished yet)](https://github.com/kullaniciadi/3d-portfolio) | [🔗 Live Demo](https://3d-portfolio.vercel.app) |
+| 04  | [📱 3D iPhone](https://github.com/kullaniciadi/3d-iphone) | [🔗 Live Demo](https://3d-iphone.vercel.app) |
+| 05  | [📊 Admin Dashboard](https://github.com/kullaniciadi/admin-dashboard) | [🔗 Live Demo](https://admin-dashboard.vercel.app) |
+| 06  | [🐦 X Clone](https://github.com/kullaniciadi/x-clone) | [🔗 Live Demo](https://x-clone.vercel.app) |
+| 07  | [🎬 Netflix Clone](https://github.com/kullaniciadi/netflix-clone) | [🔗 Live Demo](https://netflix-clone.vercel.app) |
+
 
 
 
