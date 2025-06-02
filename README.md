@@ -17,6 +17,16 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okankirik&show_icons=true&locale=en&layout=compact" alt="okankirik" /></p>
 
+<table>
+  <tr>
+    <td><strong>🛒 Trendyol Clone</strong><br/><a href="https://trendyol-clone.vercel.app">🔗 Live Demo</a></td>
+    <td><strong>🎨 GPT4 UI Design</strong><br/><a href="https://gpt4-ui-design.vercel.app">🔗 Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 3D Portfolio</strong><br/><a href="https://3d-portfolio.vercel.app">🔗 Live Demo</a></td>
+    <td><strong>📱 3D iPhone</strong><br/><a href="https://3d-iphone.vercel.app">🔗 Live Demo</a></td>
+  </tr>
+</table>
 
 
 
