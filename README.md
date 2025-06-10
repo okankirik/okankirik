@@ -13,14 +13,14 @@
 
 | #   | Proje Adı | Live Demo |
 |-----|-----------|-----------|
-| 01  | [E-commerce Project with React (not finished yet)](https://github.com/okankirik/ECommerceProject) | [🔗 Live Demo](https://kullaniciadi.github.io/vanilla-js-projects) |        
+| 01  | [E-commerce Project with React (not finished yet)](https://github.com/okankirik/ECommerceProject) |  |        
 | 02  | [Personal Web Site Demo ](https://github.com/okankirik/OkanKirikBootstrap)) | [🔗 Live Demo](https://okankirik.github.io/OkanKirikBootstrap/) |
 | 03  | [Burger Website](https://github.com/okankirik/CssWebsiteTraining) | [🔗 Live Demo](https://okankirik.github.io/CssWebsiteTraining/) |
-| 04  | [Personal Website](https://github.com/okankirik/PersonalWebsite) | [🔗 Live Demo](https://3d-portfolio.vercel.app) |
-| 05  | [Car Book Website (not finished yet)](https://github.com/okankirik/CarBook) | [🔗 Live Demo](https://3d-iphone.vercel.app) |
-| 06  | [To do List](https://github.com/okankirik/ToDoListApp) | [🔗 Live Demo](https://admin-dashboard.vercel.app) |
-| 07  | [Password Generator](https://github.com/okankirik/PasswordGenerator_Blazor) | [🔗 Live Demo](https://x-clone.vercel.app) |
-| 08  | [Auto Service Project](https://github.com/okankirik/AutoService) | [🔗 Live Demo](https://netflix-clone.vercel.app) |
+| 04  | [Personal Website](https://github.com/okankirik/PersonalWebsite) |  |
+| 05  | [Car Book Website (not finished yet)](https://github.com/okankirik/CarBook) |  |
+| 06  | [To do List](https://github.com/okankirik/ToDoListApp) ||
+| 07  | [Password Generator](https://github.com/okankirik/PasswordGenerator_Blazor) |  |
+| 08  | [Auto Service Project](https://github.com/okankirik/AutoService) | |
 
 
 ---
