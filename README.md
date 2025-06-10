@@ -15,7 +15,7 @@
 |-----|-----------|-----------|
 | 01  | [E-commerce Project with React](https://github.com/okankirik/ECommerceProject) | [🔗 Live Demo](https://kullaniciadi.github.io/vanilla-js-projects) |        
 | 02  | [Personal Web Site Demo (not finished yet)](https://github.com/okankirik/OkanKirikBootstrap)) | [🔗 Live Demo](https://trendyol-clone.vercel.app) |
-| 03  | [Burger Website](https://github.com/okankirik/CssWebsiteTraining) | [🔗 Live Demo](https://gpt4-ui-design.vercel.app) |
+| 03  | [Burger Website](https://github.com/okankirik/CssWebsiteTraining) | [🔗 Live Demo](https://okankirik.github.io/CssWebsiteTraining/) |
 | 04  | [Personal Website](https://github.com/okankirik/PersonalWebsite) | [🔗 Live Demo](https://3d-portfolio.vercel.app) |
 | 05  | [Car Book Website](https://github.com/okankirik/CarBook) | [🔗 Live Demo](https://3d-iphone.vercel.app) |
 | 06  | [To do List](https://github.com/okankirik/ToDoListApp) | [🔗 Live Demo](https://admin-dashboard.vercel.app) |
